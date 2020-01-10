@@ -41,6 +41,27 @@
 | [Dungeon Princess](https://www.interviewbit.com/problems/dungeon-princess/) |
 | [Angry Students](https://codeforces.com/contest/1287/problem/A) (Codeforces) | 
 | [Hyperset](https://codeforces.com/contest/1287/problem/B) (Codeforces) | 
+### Day 4: January 6, 2020
 
-
+### Day 5: January 7, 2020
+|**Problems solved**|
+|-----------|
+| [Unique Paths in a Grid](https://www.interviewbit.com/problems/unique-paths-in-a-grid/) |
+| [Minimum sum paths in a triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/) |
+### Day 6: January 8, 2020
+|**Problems solved**|
+|-----------|
+| [Chefina and Prefix Suffix Sums ](https://www.codechef.com/JAN20B/problems/CHEFPSA ) (Codechef) |
+### Day 7: January 9, 2020
+|**Problems solved**|
+|-----------|
+| [Recruit villagers](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef) |
+| [Minion and Range](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef) | 
+| [Gru is Handing Out Bananas ](https://www.codechef.com/PLIT2020/problems/GRUBAN) (Codechef) | 
+### Day 8: January 10, 2020
+|**Problems solved**|
+|-----------|
+| [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) (Codeforces |
+| [Just Eat it](https://codeforces.com/contest/1287/problem/A) (Codeforces) | 
+| [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) (Codeforces) | 
 
